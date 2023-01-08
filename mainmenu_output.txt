@@ -1,0 +1,241 @@
+Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:20:19) [MSC v.1925 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\Lenovo\Desktop\Python\PROJECT\aproject.py =========
+Welcome to AA Premium Automobiles!!
+Are you existing user? (yes/no) :yes
+SignIn:
+Enter Username: ab459
+Enter Password: 459
+Login Successfull!
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 1
+These are the luxury cars in our collection: 
+Company		Model
+Aston_Martin	DB9	
+Audi	R8	
+Audi	A4	
+Audi	A6	
+BMW	7series	
+BMW	M5	
+BMW	320d	
+Buggati	Veyron	
+Hyundai	SantaFe	
+Jaguar	XJ	
+Jaguar	XF	
+Jaguar	XE	
+Lamborghini	Avantador	
+Lamborghini	Hurcan_Evo	
+Lamborghini	URUS	
+Mercedes_Benz	S450	
+Mercedes_Benz	AMG GT	
+Mercedes_Benz	G63 AMG	
+Rolls_Rolls	Phantom_VII	
+Rolls_Royce	Ghost VI	
+Rolls_Royce	Cullinun	
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 2
+Enter brand name: Audi
+Enter your budget: 5000000
+The car matching your preferences is:  ('Audi', 5000000, 'A4')
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 3
+Enter name of the car company: Lamborghini
+Details for the car you chose are: 
+Company		Model	Year	Date of addition	Price
+Lamborghini	Avantador	2014	2017-07-28 00:00:00	15000000
+Lamborghini	Hurcan_Evo	2020	2020-08-11 00:00:00	35500000
+Lamborghini	URUS	2019	2019-08-11 00:00:00	4000000
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 4
+Enter name of the car company: Mercedes_Benz
+Colours available are:  ('Silver and Black',)
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 5
+Please enter the brand you want to review
+1. Mercedes Benz
+2. BMW
+3. Jaguar
+4.Audi
+5.Aston Martin
+6.Rolls Royce
+7.Lamborghini
+8.Buggati
+9.Hyundai
+Enter choice2
+(4, 'BMW', '7series', 13)
+(5, 'BMW', 'M5', 19)
+(6, 'BMW', '320d', 2)
+Continue?Y/NN
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 6
+Location of our outlet in your city
+Please select the city you live in Lahore
+1.New Delhi
+2.Mumbai
+3.Chandigarh
+4.Lahore
+5.Ludhiana
+Enter choice4
+('Jine Lahore nai vekhya, O jamya-e-ni', 0)
+Continue?Y/NY
+Please select the city you live in New Delhi
+1.New Delhi
+2.Mumbai
+3.Chandigarh
+4.Lahore
+5.Ludhiana
+Enter choice1
+('Tughlaq lane', 3)
+Continue?Y/NN
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 7
+View our results in the recent Grand Prix
+('Monza', 12, 'Bakir', 'Rassenballsport')
+('Monaco', 3, 'Nusrat Fateh Ali Khan', 'Redbull')
+('Nurburgring', 2, 'Shamu Patel', 'Ferrari')
+('Silverstone', 1, 'Michael Schumacher', 'Highskis')
+Check back soon!
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 8
+We started in the year 1961 in a small garage as a car rental business in the national capital New Delhi.
+We initially bought two HM Ambassadors as an investment and the car was a big hit amongst the politicians and upper middle-class people in the country.
+Initially, our comprehension of a full length business model was minimal. Our primary model was based on experimental analysis and trial and error. As the business grew, we realised that a solid model had to be put into place.So we decided to take our company to the next level
+It was in the 1965 we bougth three more cars which were two Premier Padminis and one Morris Minor (A British car manufacturer). Eventually our business expanded. We started getting more customers who could pay well for the imported vehicles.
+On an auspicious day in the year 1967, a man came to us with a request to buys his car ( A two years old Ambassador). He was shifting to abroad and did not required the car. We thougth for some time and bought that car. The car we bougth had not been serviced fot more than a year and had some scratches as well.
+The car was being repaired by our men when came a youngster who was a relative of the man who sold us that car. He said that he wishes to buy that car and we were making some profit too. It was that day when we got the idea of opening a pre-owned car buy and sell business in stream with our previous business.
+In the year 1975 our both the businesses were doing well when we decided to open a new business of car repairing which contined till the end of the twentieth century.
+In the year 1980 we observed that the pre-owned car business was doing better than the rental business so we decided to do away with the car rental business and sold our thirty five cars which we had at that time for rental purpose.
+We had got enough funds at that time to start selling some brand new cars also which were imported from foreign countries,some of the brands being Jaguar, Alpha-Romeo, Lexus, Mercedes-Benz,etc. This made it easier for those people who thougth of buying exotic cars.
+By the start of the twenty-first century we had opened 3 branches of our company in the major parts of our country like Mumbai and Chandigarh.
+Now, in the year 2020 we have a lineup of 19-20 cars best of their kinds to buy in each branch and more than 50 cars coming each day for selling.
+
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 9
+It was only with the help of our esteemed sponsors that we were able to scale such heights and expand our business
+(1, 'AA Premium Automobile And Business Solutions', 'Abhishek Bohra', 30)
+(2, 'AA Premium Automobile And Business Solutions', 'Aryaman Singh Katoch', 30)
+(3, 'Mercedes Benz Petronas', 'Julian Brandt', 5)
+(4, 'Lamborghini Newport Beach', 'Horacio Pagani', 3)
+(5, 'Usher Usher Usher', 'Usher', 12)
+(6, 'Khoshbin Real Estate', 'Manny Khoshbin', 20)
+Do you want to continue?: yes
+1.Show our car linup
+2.Search cars
+3.A detailed overview of a selected brand collection
+4.Show colour options available with various car brands
+5.Sales and marketing reports
+6.Store locator
+7.View our results in recent track race collaborations
+8.See our history
+9.See our partnerships with other companies
+10.Take the FAN TEST !!
+Enter your choice: 10
+Let's put your exotic car knowledge to the test :)
+1. Brands
+2. Models
+which version would you like to play?1/21
+Test your brand knowledge
+_A___R
+enter the answerJAGUAR
+Spot on!
+continue playing? Y/NY
+1. Brands
+2. Models
+which version would you like to play?1/22
+Test your car model knowledge
+_E__O_
+enter the answerVEYRON
+Spot on!
+continue playing? Y/NN
+Do you want to continue?: no
+>>> 
